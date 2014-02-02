@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://tyewang.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://tyewang.com
+title: Tye Wang
+subtitle: The life of a connoisseur.
+author: Tye Wang
 simple_search: http://google.com/search
-description:
+description: The blog of Tye Wang
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
