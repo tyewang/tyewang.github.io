@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://tyewang.github.io/sitemap.xml 
+Sitemap: http://tyewang.com/sitemap.xml 
