@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[Tye Wang]]></title>
-  <link href="http://tyewang.com/food/atom.xml" rel="self"/>
-  <link href="http://tyewang.com/food/"/>
-  <updated>2014-03-08T23:57:36+00:00</updated>
-  <id>http://tyewang.com/food/</id>
+  <link href="http://tyewang.com/atom.xml" rel="self"/>
+  <link href="http://tyewang.com/"/>
+  <updated>2014-03-08T23:58:27+00:00</updated>
+  <id>http://tyewang.com/</id>
   <author>
     <name><![CDATA[Tye Wang]]></name>
     
@@ -13,11 +13,23 @@
 
   
   <entry>
-    <title type="html"><![CDATA[test]]></title>
-    <link href="http://tyewang.com/food/blog/2014/03/08/test/"/>
-    <updated>2014-03-08T23:52:42+00:00</updated>
-    <id>http://tyewang.com/food/blog/2014/03/08/test</id>
-    <content type="html"><![CDATA[
+    <title type="html"><![CDATA[A shining new era is tiptoeing nearer]]></title>
+    <link href="http://tyewang.com/blog/2014/02/02/a-shining-new-era-is-tiptoeing-nearer/"/>
+    <updated>2014-02-02T08:28:39+00:00</updated>
+    <id>http://tyewang.com/blog/2014/02/02/a-shining-new-era-is-tiptoeing-nearer</id>
+    <content type="html"><![CDATA[<p>
+So prepare for a chance of a lifetime.
+Be prepared for sensational news.
+A shining new era, is tiptoeing nearer.
+&#8230;
+</p>
+
+
+<p>
+Yes, our teeth and ambitions are bared.
+Be prepared!
+</p>
+
 ]]></content>
   </entry>
   

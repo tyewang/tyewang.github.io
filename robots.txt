@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://tyewang.com/food/sitemap.xml 
+Sitemap: http://tyewang.com/sitemap.xml 
