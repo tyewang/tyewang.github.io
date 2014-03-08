@@ -1,23 +1,18 @@
 // $font-icon: FontAwesome;
-$font-icon-path: "cubano-regular-webfont";
+$font-icon-path: "sueellenfrancisco-webfont";
 
 @font-face {
-    font-family: 'CubanoRegular';
-    src: font-url('#{$font-icon-path}.eot');
-    src: url('#{font-url('#{$font-icon-path}.eot', true)}#iefix') format('embedded-opentype'),
-         font-url('#{$font-icon-path}.woff') format('woff'),
-         font-url('#{$font-icon-path}.ttf') format('truetype'),
-         url('#{font-url('#{$font-icon-path}.svg', true)}#CubanoRegular') format('svg');
+    font-family: 'SueEllenFrancisco';
+    src: font-url('#{$font-icon-path}.ttf');
     font-weight: normal;
     font-style: normal;
 }
-
 
 $blockquote: $type-border !default;
 $sans: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif !default;
 $serif: "PT Serif", Georgia, Times, "Times New Roman", serif !default;
 $mono: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace !default;
-$heading-font-family: "CubanoRegular", "PT Serif", "Georgia", "Helvetica Neue", Arial, sans-serif !default;
+$heading-font-family: "SueEllenFrancisco", "PT Serif", "Georgia", "Helvetica Neue", Arial, sans-serif !default;
 $header-title-font-family: $heading-font-family !default;
 $header-subtitle-font-family: $heading-font-family !default;
 
