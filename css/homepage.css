@@ -17,13 +17,25 @@
     top: 0;
 }
 .overlay-desc {
-    background: rgba(0,0,0,0);
+    background: rgba(0,0,0,0.4);
     position: absolute;
-    top: 0; right: 0; bottom: 0; left: 0;
+    top: 0; right: 50%; bottom: 0; left: 0;
+    padding-left: 5%;
+    padding-right: 5%;
     display: flex;
-    align-items: center;
-    justify-content: center;
+    flex-direction: column;
+}
+.overlay-content h1 {
     font-family: 'Lato';
     color: white;
+    font-size: 500%;
+    font-weight: 700;
+    text-align: right;
+    margin-bottom: 5%;
+}
+.overlay-content h2 {
+    font-family: 'Fira Sans';
+    color: white;
     font-size: 120%;
+    text-align: right;
 }
